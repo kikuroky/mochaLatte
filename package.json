@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/kikuroky/mochaLatte/issues"
   },
-  "homepage": "https://github.com/kikuroky/mochaLatte#readme"
+  "homepage": "https://github.com/kikuroky/mochaLatte#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "mocha": "^10.0.0",
+    "mochawesome": "^7.1.3",
+    "mochawesome-report-generator": "^6.2.0"
+  }
 }
